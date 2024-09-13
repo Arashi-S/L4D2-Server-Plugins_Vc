@@ -1,0 +1,56 @@
+"Phrases"
+{
+	"CA Admin"
+	{
+		"en"			"服务器管理员"
+	}
+	"CA Public"
+	{
+		"en"			"玩家"
+	}
+	"LAN City Desc"
+	{
+		"en"			"IP"
+	}
+	"LAN Region Desc"
+	{
+		"en"			"a Local Subnet"
+	}
+	"LAN Country Desc"
+	{
+		"en"			"a Local Area Network"
+	}
+	
+	"LAN Country Short"
+	{
+		"en"			"LN"
+	}
+	
+	"LAN Country Short 3"
+	{
+		"en"			"LAN"
+	}
+	
+	"Unknown City Desc"
+	{
+		"en"			"不知道的地方"
+	}
+	"Unknown Region Desc"
+	{
+		"en"			"不知道的地方"
+	}
+	"Unknown Country Desc"
+	{
+		"en"			"不知道的地方"
+	}
+	
+	"Unknown Country Short"
+	{
+		"en"			"??"
+	}
+	
+	"Unknown Country Short 3"
+	{
+		"en"			"???"
+	}
+}
