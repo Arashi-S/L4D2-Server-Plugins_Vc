@@ -90,13 +90,9 @@
 		{
 			"message" "[默认]启用Miuwiki Hud"
 		}
-		"exec Vote/Hud/sorallll.cfg"
+		"exec Vote/Hud/scriptedHUD.cfg"
 		{
-			"message" "启用sora Hud"
-		}
-		"exec Vote/Hud/NanakaNeko.cfg"
-		{
-			"message" "启用奈"S Hud"
+			"message" "启用scripted Hud"
 		}
 	}
 }
